@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marcelo-Ferraz-de-Oliveira
-- 🌱 I’m an oldschool infrastructure analyst learning modern web backend development.
+- 🌱 Oldschool infrastructure analyst and python developer, learning new technologies.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelo-Ferraz-de-Oliveira)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Ferraz-de-Oliveira&hide=Jupyter%20Notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
